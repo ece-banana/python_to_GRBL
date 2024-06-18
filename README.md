@@ -45,3 +45,5 @@ GRBL 1.1
 https://www.sainsmart.com/blogs/news/grbl-v2-0-quick-reference?utm_campaign=GGGRBL&utm_source=google&utm_medium=cpc&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8sfPJflGtS8CJvGz0kVNUzFp3rUzcPWJUgP3bbDcDVv72TTl625iroaAqS9EALw_wcB
 
 https://forum.arduino.cc/t/send-commands-to-grbl-on-an-arduino-uno-using-a-arduino-mega/585983
+
+https://discuss.inventables.com/t/using-grbl-direct-communication/16073
