@@ -41,3 +41,7 @@ GRBL 1.1
 ```
 
 ![Alt Text](https://github.com/Sam-Freitas/python_to_GRBL/blob/main/readme_deps/9EC680F1-AE1E-4AD0-9828-93B54D571714%20(1).gif)
+
+https://www.sainsmart.com/blogs/news/grbl-v2-0-quick-reference?utm_campaign=GGGRBL&utm_source=google&utm_medium=cpc&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8sfPJflGtS8CJvGz0kVNUzFp3rUzcPWJUgP3bbDcDVv72TTl625iroaAqS9EALw_wcB
+
+https://forum.arduino.cc/t/send-commands-to-grbl-on-an-arduino-uno-using-a-arduino-mega/585983
